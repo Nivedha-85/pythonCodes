@@ -1,0 +1,11 @@
+{
+    "name": "Nivedha",
+    "sem": 7,
+    "College": "RNSIT",
+    "Placed": false,
+    "Technologies": [
+        "MySQL",
+        "OS",
+        "DS"
+    ]
+}
